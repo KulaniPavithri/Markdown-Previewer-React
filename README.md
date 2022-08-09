@@ -1,5 +1,5 @@
-This project converts markdown to html.
-Technologies and conepts: React - Hooks, Context, Refs, JSX, HTML5, CSS3, SASS. 
+This project converts markdown to html.\
+Technologies and conepts: React - Hooks, Context, Refs, JSX, HTML5, CSS3, SASS. \
 UI - splitpane layout
 
 # Getting Started with Create React App
